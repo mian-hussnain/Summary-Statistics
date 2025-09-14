@@ -33,15 +33,15 @@ Matplotlib – Visualizations (histograms)
 
 ## Project Structure
 
- basic-data-analysis
- app.py # Main Streamlit app
- README.md # Documentation
- requirements.txt # Dependencies
+ basic-data-analysis                
+ app.py ---> Main Streamlit app          
+ README.md ---> Documentation                
+ requirements.txt ---> Dependencies
 
 ## How to Run
 
 Clone the repository
-git clone https://github.com/your-username/basic-data-analysis.git
+git clone [https://github.com/your-username/basic-data-analysis.git](https://github.com/mian-hussnain/Summary-Statistics)
 
 cd basic-data-analysis
 
